@@ -1,4 +1,4 @@
-package com.rhinoint.rhinointerview;
+package com.casinoDaysTest.casinoDaysTest;
 
 import com.codeborne.selenide.Configuration;
 import lombok.extern.slf4j.Slf4j;
